@@ -66,6 +66,14 @@ This protocol is part of the **Open Source Witchcraft** initiative. You are free
 
 ---
 
+## 📚 References
+
+This ritual layout is inspired in part by the system described in:  
+**Chic and Sandra Tabatha Cicero**, *The Golden Dawn Magical Tarot* (Llewellyn Publications).  
+More information: [Llewellyn product page](https://www.llewellyn.com/product.php?ean=9780738700586)
+
+---
+
 **Created by:** *Le Sorcier Inconnu* (The Unknown Sorcerer)  
 **Location:** Ganesha Temple, Ravensgate
 
