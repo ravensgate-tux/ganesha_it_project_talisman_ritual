@@ -26,8 +26,10 @@ An invoking triangle tarot layout is used, as shown below:
 3. **The Chariot** — Drive, momentum, execution
 4. **The Sun** — Desired outcome / success
 
+<div style="display: flex; gap: 10px;">
   <img src="ganesha-1.jpg" width="300">
   <img src="ganesha-2.jpg" width="300">
+</div>
 
 ---
 
@@ -42,9 +44,10 @@ An invoking triangle tarot layout is used, as shown below:
 ## ☕ Post-Success Offering
 Upon success, offer a mooncake at the altar and log the result with a photo. This ritual may then be considered validated.
 
-
+<div style="display: flex; gap: 10px;">
   <img src="ganesha-3.jpg" width="300">
   <img src="ganesha-4.jpg" width="300">
+</div>
 
 ---
 
