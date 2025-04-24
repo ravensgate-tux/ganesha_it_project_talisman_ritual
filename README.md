@@ -69,8 +69,8 @@ This protocol is part of the **Open Source Witchcraft** initiative. You are free
 ## 📚 References
 
 This ritual layout is inspired in part by the system described in:  
-**Chic and Sandra Tabatha Cicero**, *The Golden Dawn Magical Tarot* (Llewellyn Publications).  
-More information: [Llewellyn product page](https://www.llewellyn.com/product.php?ean=9780738700586)
+**Chic and Sandra Tabatha Cicero**, *Tarot Talismans: Invoke the Angels of the Tarot* (Llewellyn Publications).  
+More information: [Amazon.com]([https://www.llewellyn.com/product.php?ean=9780738700586](https://www.amazon.com/Tarot-Talismans-Invoke-Angels/dp/0738708712/ref=sr_1_1?crid=7BAQ0XQQJ4QQ&dib=eyJ2IjoiMSJ9.A3ewnLrxBHlC1KxLClqkn1SNuLA-sssNbsSAPPwA8gnNPYiSDaYVozHppjDo7MG9qGP27Gwo0U0u5LPBL4Il6glj9ChUhzVPGz73SvP5ghOsBsQIOZPNKtszms8RO0Ms2yUhKgt30okuT1B-iQ_9sAWVBQEZNZ0Ow3M-y2kJlYBLJZZss6fs0NheEBkps8UVRcjQRIfjv9tzYsmWxgSv2jPDnR4I7I38MEFtcHNjteOBspDHTPXWzjKkL2SsuIJ3RSkwEpDjwyCk0Lv975mKYGvSDwKx89Zk0EK7KIiN8rI.qEQq1vRk_K_qboLCXMH1QI27DBeJcl8z0e8_LLvv1BY&dib_tag=se&keywords=tarot+talisman&qid=1745459928&sprefix=%2Caps%2C1086&sr=8-1)
 
 ---
 
