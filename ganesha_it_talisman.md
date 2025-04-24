@@ -26,9 +26,9 @@ An invoking triangle tarot layout is used, as shown below:
 3. **The Chariot** — Drive, momentum, execution
 4. **The Sun** — Desired outcome / success
 
-<div style="display: flex; gap: 50px;">
-  <img src="ganesha_it_rituaL_1.jpg" width="300">
-  <img src="ganesha_it_ritual_2.jpg" width="300">
+<div style="display: flex; gap: 10px;">
+  <img src="ganesha-1.jpg" width="300">
+  <img src="ganesha-2.jpg" width="300">
 </div>
 
 ---
@@ -44,10 +44,9 @@ An invoking triangle tarot layout is used, as shown below:
 ## ☕ Post-Success Offering
 Upon success, offer a mooncake at the altar and log the result with a photo. This ritual may then be considered validated.
 
-
-<div style="display: flex; gap: 50px;">
-  <img src="ganesha_it_rituaL_3.jpg" width="300">
-  <img src="ganesha_it_ritual_4.jpg" width="300">
+<div style="display: flex; gap: 10px;">
+  <img src="ganesha-3.jpg" width="300">
+  <img src="ganesha-4.jpg" width="300">
 </div>
 
 ---
@@ -55,15 +54,23 @@ Upon success, offer a mooncake at the altar and log the result with a photo. Thi
 ## 🔗 Files Included
 - `ganesha_it_talisman.md` — Full ritual documentation (English)
 - `invoking-layout.jpg` — Visual guide to tarot layout used
-- `ganesha_it_ritual_1.jpg` — Ganesha picture
-- `ganesya_it_ritual_2.jpg` — Tarot Cards
-- `ganesha_it_ritual_3.jpg` — Mooncake picture 1
-- `ganesya_it_ritual_4.jpg` — Mooncake picture 2
+- `ganesha-1.jpg` — Ganesha picture
+- `ganesha-2.jpg` — Tarot Cards
+- `ganesha-3.jpg` — Mooncake picture 1
+- `ganesha-4.jpg` — Mooncake picture 2
 
 ---
 
 ## 🐌 License & Sharing
 This protocol is part of the **Open Source Witchcraft** initiative. You are free to remix, adapt, and log your own versions. Attribution encouraged.
+
+---
+
+## 📚 References
+
+This ritual layout is inspired in part by the system described in:  
+**Chic and Sandra Tabatha Cicero**, *Tarot Talismans: Invoke the Angels of the Tarot* (Llewellyn Publications).  
+More information: [Amazon.com]([[https://www.llewellyn.com/product.php?ean=978073870058](https://www.amazon.com/Tarot-Talismans-Invoke-Angels/dp/0738708712](https://www.amazon.com/Tarot-Talismans-Invoke-Angels/dp/0738708712)
 
 ---
 
