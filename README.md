@@ -39,6 +39,13 @@ An invoking triangle tarot layout is used, as shown below:
 - Intone "IAOM"
 - Repeat Ganesha mantra x3 again
 
+**Suggested Prayer (to be spoken aloud):**
+
+"O Ganesha, Remover of Obstacles,  
+Grant me success in the project I seek.  
+May the power of these cards guide the path,  
+And may my intention manifest in clarity and action."
+
 ---
 
 ## ☕ Post-Success Offering
