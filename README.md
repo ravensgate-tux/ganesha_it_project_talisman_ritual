@@ -72,4 +72,3 @@ This protocol is part of the **Open Source Witchcraft** initiative. You are free
 
 © 2025 *Le Sorcier Inconnu* (The Unknown Sorcerer)  
 This document is published under the terms of the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).**
-# ganesha_it_project_talisman_ritual
